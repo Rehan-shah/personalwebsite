@@ -1,0 +1,87 @@
+body{
+  font-size: 1.5em;
+  background-color:#150941 ;
+
+}
+.top {
+  padding-top: 50px
+}
+
+.middle-container {
+  background-color: #150941;
+}
+
+h1 {
+  font-family: league spartan, sans-serif;
+}
+
+h2 {
+  font-family: Ubuntu, sans-serif;
+  color: #F2F2F1;
+  display: inline-block;
+}
+
+h3 {
+
+  font-family: Arial, Helvetica, sans-serif;
+  color: #F80340;
+  display: inline-block;
+  position: relative;
+  margin-left: 10px
+}
+
+p {
+  font-family: 'Roboto Condensed';
+  color: lightblue;
+  margin-left: 10px
+}
+
+li {
+  font-family: 'Roboto Condensed';
+  color: lightblue;
+  margin-left: 10px
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  color: grey;
+  width: 7%;
+}
+
+body {
+  background-color:#150941;
+}
+
+
+a{
+  color: #11999E;}
+  .picture{
+    width:200px;
+  border-radius: 90%;
+    float: left;
+    margin-right:100px
+  }
+
+.skill-row{
+
+margin-top: 100px;
+}
+.bottom-container{
+ background-color: lightblue;
+ text-align: center;
+}
+.picture1{
+position: relative;
+  width: 60px;
+  margin-right: 30px;
+  margin-top: 20px;
+}
+.u{
+  width: 100px;
+}
+/*
+colortheme = ,#150941,#F80340,#F2F2F1,lightblue,grey;
+fonts= league spartan,robot Condensed
+/*
